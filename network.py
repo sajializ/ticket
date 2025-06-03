@@ -3,12 +3,8 @@ import random
 from collections import defaultdict
 import config
 from typing import List, Tuple, Dict
-import heapq
-import math
-from collections import deque, defaultdict
+from collections import defaultdict
 from typing import Dict, List, Tuple
-import os
-import pickle
 import networkx as nx
 
 class Channel:
