@@ -1,0 +1,3 @@
+### Lightning Network Simulator
+
+This repository contains the Python simulator and plotting scripts used in our paper to compare Ticket-based routing with SpeedyMurmurs on Lightning-Network snapshots. It loads a public listchannels*.json, builds primary and reject Bloom-filter tickets, replays batches of synthetic payments under configurable failure models, and outputs per-algorithm success rates, hop counts, and CLTV statistics together with the publication-ready figures.
