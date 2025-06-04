@@ -1,6 +1,6 @@
 # path to a real‐world Lightning snapshot (e.g. CSV or JSON)
 # SNAPSHOT_PATH = "./other/listchannels20220412.json"
-SNAPSHOT_PATH = "2024-05-20.json"
+SNAPSHOT_PATH = "snapshot/listchannels20220412-real.json"
 
 # ───────── BFS ──────────────────────────────────────────
 # choose "hop" or "fee" for your two versions
